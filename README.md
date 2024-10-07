@@ -37,11 +37,10 @@ Für alle, deren User nicht user heißt: im create-vm-vyos.sh Zeile 33 anpassen.
 
 Um den Network Creator nutzen zu können, braucht man selbstverständlich keine Desktop-Umgebung auf dem PVE zu installieren, sondern es reicht xorg und dann kann man ihn mit ssh -X remote aufrufen. Möglicherweise gibt es Terminals, die ssh -X nicht unterstützen, mit den Gnome-Terminal geht es aber jedenfalls. Ich habe die GUI nur unter Linux laufen lassen. Ob es auch unter Windows und Mac verwendbar ist, kann jeder selber probieren, der das möchte. Sollte eigentlich gehen, da sie in Python geschrieben ist.
 
-(/Bilder/foto1.png)
-(foto2.png)
-(foto3.png)
-(foto4.png)
-
+![foto1](Bilder/foto1.png)
+![foto2](Bilder/foto2.png)
+![foto3](Bilder/foto3.png)
+![foto4](Bilder/foto4.png)
 
 ## Troubleshooting
 
