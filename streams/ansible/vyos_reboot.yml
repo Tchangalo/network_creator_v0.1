@@ -1,0 +1,16 @@
+---
+- name: Schedule immediate machine reboot.
+  gather_facts: False
+  connection: ansible.netcommon.network_cli
+  vars:
+    ansible_user: vyos
+    ansible_network_os: vyos.vyos.vyos
+
+  hosts:
+    - router
+
+  tasks:
+    - name: reboot
+      vyos.vyos.vyos_command:
+        commands:
+        - command: reboot now
