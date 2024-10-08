@@ -17,7 +17,7 @@ pip3 install ttkthemes
 
 ## Quickstart
 
-Nach dem Clonen dieses Repos den Ordner streams aus dem Ordner network_creator herausnehmen und in den Pfad /home/user/streams des PVE-Hosts ablegen und dann von da aus arbeiten.
+Nach dem Clonen dieses Repos den Ordner streams aus dem Ordner network_creator_v0.1 herausnehmen und in den Pfad /home/user/streams des PVE-Hosts ablegen und dann von da aus arbeiten.
 
 Der Network Creator wird aufgerufen, indem man 
 
