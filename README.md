@@ -57,7 +57,7 @@ interpreter could change the meaning of that path. See
 https://docs.ansible.com/ansible-
 core/2.17/reference_appendices/interpreter_discovery.html for more information.
 
-Diese Meldung ist erklärt sich selbst.
+Diese Meldung erklärt sich selbst.
 
 Insbesondere bei schwächeren/langsameren Rechnern kann es ab und zu Timeoutprobleme geben. Dazu bitte die Datei Timeoutprobleme.pdf lesen.
 
