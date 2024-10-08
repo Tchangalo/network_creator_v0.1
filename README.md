@@ -23,7 +23,7 @@ Der Network Creator wird aufgerufen, indem man
 
 (1) ein vyos.qcow2 Image erstellt (siehe Setup.pdf) und unter /home/user/streams/create-vms/create-vms-vyos/ ablegt,
 
-(2) eine seed.iso erstellt (siehe Setup.pdf) und unter /var/lib/local-btrfs/template/iso ablegt,
+(2) eine seed.iso erstellt (siehe Setup.pdf) und unter /var/lib/local-btrfs/template/iso/ ablegt,
 
 (3) die neueste Version von Vyos rolling runterläd und unter /home/user/ansible/vyos-files/ ablegt (dazu den Ordner vyos-files anlegen). Diese Datei ab und zu aktualisieren, damit das Updaten überhaupt Sinn macht.
 
