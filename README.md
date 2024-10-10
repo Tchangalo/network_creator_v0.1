@@ -31,7 +31,9 @@ Der Network Creator wird aufgerufen, indem man
 und dann eingibt: 
 
 source .venv/bin/activate
+
 cd streams
+
 python3 nwc.py
 
 sudo-Password des Users im Terminal eingeben.
