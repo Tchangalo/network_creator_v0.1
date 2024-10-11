@@ -137,7 +137,7 @@ Host p*r*m
 
 " > /root/.ssh/config
 
-echo "alias ip='ip -br -c a'
+echo "alias i='ip -br -c a'
 alias b='bpytop'
 
 alias p1r1v='ssh p1r1v'
@@ -173,7 +173,7 @@ alias p3r9v='ssh p3r9v'
 " >> /root/.bashrc
 
 su user
-echo "alias ip='ip -br -c a'
+echo "alias i='ip -br -c a'
 alias b='bpytop'
 alias nwc='python3 nwc.py'
 
