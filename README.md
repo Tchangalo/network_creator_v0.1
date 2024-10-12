@@ -40,7 +40,7 @@ sudo-Password des Users im Terminal eingeben.
 
 Für alle, deren User nicht user heißt: im create-vm-vyos.sh und im create-vm-vyos-turbo.sh Zeile 33 anpassen. Außerdem sind die SSH-Credentials in der Datei user-data beim Erstellen der seed.iso anzupassen, sowie die ansible.cfg .
 
-Um den Network Creator nutzen zu können, braucht man selbstverständlich keine Desktop-Umgebung auf dem PVE zu installieren, sondern es reicht xorg und dann kann man ihn mit ssh -X remote aufrufen. Möglicherweise gibt es Terminals, die ssh -X nicht unterstützen, mit dem Gnome-Terminal geht es aber jedenfalls. Ich habe den Network Creator nur unter Linux laufen lassen. Ob er auch unter Windows und Mac verwendbar ist, kann jeder selber probieren, der das möchte.
+Um den Network Creator nutzen zu können, braucht man selbstverständlich keine Desktop-Umgebung auf dem PVE zu installieren, sondern es reicht xorg und dann kann man ihn mit ssh -X remote aufrufen. (Eine Lösung ohne xorg auf dem PVE ist aber in Arbeit.) Möglicherweise gibt es Terminals, die ssh -X nicht unterstützen, mit dem Gnome-Terminal geht es aber jedenfalls. Ich habe den Network Creator nur unter Linux laufen lassen. Ob er auch unter Windows und Mac verwendbar ist, kann jeder selber probieren, der das möchte.
 
 ![foto1](Bilder/foto1.png)
 ![foto2](Bilder/foto2.png)
